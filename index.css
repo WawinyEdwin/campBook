@@ -1,0 +1,141 @@
+.description{
+  text-align:center;
+}
+h2{
+  text-align: left;
+}
+p2{
+  text-align: center;
+}
+footer{
+  text-align: center;
+  background-color:#007bff;
+}
+.about{
+  text-align: left;
+}
+.info{
+  text-align:;
+}
+.services
+.ul{
+  
+}
+.subscription{
+
+}
+p2{
+  text-align: center;
+}
+
+/*body{
+    font-family: cursive;
+    font-style: inherit;
+    padding: 0%;
+    margin: 0%;
+    background-color: #17a0f0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+nav{
+    float:center;
+    
+    margin-top: 0;
+    background-color:;
+}
+.navbar-brand{
+
+}
+.navbar-toggle{
+
+}
+.navlink-item{
+
+}
+.nav-link{
+
+}
+.nav-tabs {
+    border-bottom: 1px solid #ddd;
+  }
+  .nav-tabs > li {
+    float: left;
+    margin-bottom: -1px;
+  }
+  .nav-tabs > li > a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    borde
+
+}
+.custom-control-label{
+
+}
+.custom-control custom-checkbox{
+
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+  }
+  .btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+  }
+label{
+        display: inline-block;
+        max-width: 100%;
+        margin-bottom: 5px;
+        font-weight: bold;
+}
+input[type="search"] {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color:rgb(226, 19, 19);
+    text-align: center;
+}
+.container{
+    width: 20%;
+    margin: auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0%;
+    padding: 0%;
+}
+.btn btn-primary mb-2{
+    height: 38px;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: cornflowerblue;
+}*/
